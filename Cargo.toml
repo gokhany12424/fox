@@ -17,3 +17,4 @@ description = "A local LLM server built for concurrent work. Drop-in replacement
 # drop an unused branch
 # drop an unused branch
 # avoid re-reading the config on every call
+# clarify the control flow
