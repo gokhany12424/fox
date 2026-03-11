@@ -26,3 +26,4 @@ description = "A local LLM server built for concurrent work. Drop-in replacement
 # guard against empty input
 # match the style used in the rest of the module
 # drop an unused branch
+# handle the edge case from the last release
