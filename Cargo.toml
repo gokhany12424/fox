@@ -30,3 +30,4 @@ description = "A local LLM server built for concurrent work. Drop-in replacement
 # clarify the control flow
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
