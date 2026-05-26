@@ -32,3 +32,4 @@ description = "A local LLM server built for concurrent work. Drop-in replacement
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
